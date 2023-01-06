@@ -3,6 +3,10 @@ title: "Классическая репатриация"
 draft: false
 ShowToc: true
 TocOpen: true
+cover:
+    image:"page_1.2.JPEG"
+    alt: ""
+    caption:
 ---
 
 ## Классическая репатриация
