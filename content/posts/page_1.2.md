@@ -4,9 +4,9 @@ draft: false
 ShowToc: true
 TocOpen: true
 cover:
-    image:"page_1.2.JPEG"
-    alt: ""
-    caption:
+    image: "page_1.2.JPEG"
+    alt: "Post image"
+    caption: ""
 ---
 
 ## Классическая репатриация
