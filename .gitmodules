@@ -2,6 +2,6 @@
     path = themes/PaperMod
     url = "https://github.com/adityatelange/hugo-PaperMod.git"
 
-[submodule "themes/PaperMod"]
+[submodule "themes/PaperModX"]
     path = themes/PaperModX
     url = "https://github.com/reorx/hugo-PaperModX.git"
