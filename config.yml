@@ -3,7 +3,7 @@ languageCode: en-en
 title: Repatriation Site
 theme: PaperModX
 params:
-  TocSide: 'left'
-  defaultTheme: light  
+  TocSide: 'right'
+  defaultTheme: auto  
       
   
