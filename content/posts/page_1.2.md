@@ -10,7 +10,6 @@ cover:
     caption: ""
 params:
     TocSide: "left"
-    defaultTheme: light
 ---
 ### Документы
 

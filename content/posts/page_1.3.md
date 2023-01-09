@@ -6,9 +6,7 @@ TocOpen: true
 cover:
     image: "page_1.3.JPEG"
     alt: "Post image"
-    caption: ""
-params: 
-    defaultTheme: light   
+    caption: "" 
 ---
 ### Первые шаги по прилету
 

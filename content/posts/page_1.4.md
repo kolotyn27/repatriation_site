@@ -3,8 +3,6 @@ title: "Правила выезда за границу"
 draft: false
 ShowToc: true
 TocOpen: true
-params: 
-    defaultTheme: light
 ---
 Выезжать за границу после прохождения репатриации можно, но следует соблюдать ряд определённых правил.
 
