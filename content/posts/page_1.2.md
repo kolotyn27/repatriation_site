@@ -1,15 +1,16 @@
 ---
 title: "Классическая репатриация"
 draft: false
-toc: true
 ShowToc: true
 TocOpen: true
+
 cover:
     image: "page_1.2.JPEG"
     alt: "Post image"
     caption: ""
-params: 
-    defaultTheme: light    
+params:
+    TocSide: "left"
+    defaultTheme: light
 ---
 ### Документы
 
