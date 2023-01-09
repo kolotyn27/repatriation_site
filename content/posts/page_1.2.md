@@ -1,6 +1,7 @@
 ---
 title: "Классическая репатриация"
 draft: false
+toc: true
 ShowToc: true
 TocOpen: true
 cover:
