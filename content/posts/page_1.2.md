@@ -5,7 +5,7 @@ draft: false
 ShowToc: true
 TocOpen: true
 cover:
-    image: "page_1.2.JPEG"
+    image: "123.png"
     alt: "Post image"
     caption: ""
 ---
