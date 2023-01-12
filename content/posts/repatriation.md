@@ -1,6 +1,6 @@
 ---
 title: "Репатриация"
-date: 2023-01-03T17:19:00+03:00
+
 draft: false
 params: 
     defaultTheme: light   
