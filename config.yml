@@ -1,7 +1,7 @@
 baseURL: "https://unrivaled-chimera-daa522.netlify.app"
 languageCode: en-en
 title: Repatriation Site
-theme: PaperMod
+theme: PaperModX
 output:
   blogdown::html_page:
     toc:true
