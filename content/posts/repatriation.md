@@ -1,7 +1,5 @@
 ---
 title: "Репатриация"
-ShowToc: true
-TocOpen: true
 draft: false
 params: 
     defaultTheme: light   
